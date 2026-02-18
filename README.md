@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-![Mohr Circle Screenshot](screenshot.png)
+![Mohr Circle Screenshot](image.png)
